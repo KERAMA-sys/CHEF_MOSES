@@ -1,0 +1,49 @@
+.Home{
+    font-family: "Times New Roman";
+    font-style: italic;
+    font-weight: lighter;
+    color: chocolate;
+    border: 2px solid black;
+    background-image: url("Image/20220619_175742.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: "Bookman Old Style";
+    font-weight: bolder;
+    background-color: white;
+    font-style: oblique;
+    text-align: center;
+}
+body{
+    background-color: wheat;
+
+}
+p{
+    text-align: center;
+    font-weight: lighter;
+    font-style: inherit;
+}
+#Tortilla\ Chips{
+    text-align: justify-all;
+    font-style: italic;
+}
+.Ingredients{
+    border: 2px solid brown;
+    padding: 10px;
+    font-style: italic;
+    font-weight: lighter;
+    color: darkgoldenrod;
+    background-color: black;
+    margin: 0;
+    text-align: justify-all;
+
+}
+li{
+    text-align: justify-all;
+    margin: 2px;
+
+}
+

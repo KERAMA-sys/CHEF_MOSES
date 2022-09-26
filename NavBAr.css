@@ -1,0 +1,13 @@
+li{
+    float: left;
+    padding: 20px;
+}
+li,a:hover{
+    color: brown;
+}
+ul{
+    margin: 0px;
+    padding: 10px;
+    list-style-type: none;
+    overflow: hidden;
+}
